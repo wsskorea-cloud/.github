@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/img/cloud-service.png" width="100" height="100"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/55793046/167615408-e8bfadb8-c35c-44a6-9beb-0fed8894f696.png" width="100" height="100"></p>
 <!-- We used this icon from https://www.flaticon.com/free-icons/cloud-computing -->
 <h1 align="center">WorldSkills Korea Cloud Computing</h1>
 
