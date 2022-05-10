@@ -1,3 +1,5 @@
+<p align="center"><img src="../assets/img/cloud-service.png" width="100" height="100"></p>
+<!-- We used this icon from https://www.flaticon.com/free-icons/cloud-computing -->
 <h1 align="center">WorldSkills Korea Cloud Computing</h1>
 
 <p align="center">
