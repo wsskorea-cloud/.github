@@ -1,6 +1,6 @@
-<p align="center"><img src="./assets/img/cloud-service.png" width="100" height="100"></p>
-<!-- We used this icon from https://www.flaticon.com/free-icons/cloud-computing -->
-<h1 align="center">WorldSkills Korea Cloud Computing</h1>
+<p align="center"><img src="./assets/img/communication.png" width="100" height="100"></p>
+<!-- We used this icon from https://www.flaticon.com/free-icons/communication -->
+<h1 align="center">WorldSkills ICT</h1>
 
 <p align="center">
     대한민국의 기능경기대회 IT/디자인 분과 입상자들이 모인 팀입니다.
