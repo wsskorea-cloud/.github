@@ -1,4 +1,4 @@
-<p align="center"><img src="../assets/img/communication.png" width="100" height="100"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/wsskorea-ict/.github/main/assets/img/communication.png" width="100" height="100"></p>
 <!-- We used this icon from https://www.flaticon.com/free-icons/communication -->
 <h1 align="center">WorldSkills Korea ICT</h1>
 
